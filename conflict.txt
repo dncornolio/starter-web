@@ -1,4 +1,4 @@
 #ajout de ligne 
-ligne 1
+Je modifie la ligne 1 depuis MASTER, I AM the master
 ligne 2
 ligne 3
