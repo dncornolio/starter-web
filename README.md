@@ -2,6 +2,8 @@
 Mon Joli Projet
 
 
+COPYRIGHT
+
 test1
 
 test2
