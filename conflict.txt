@@ -1,4 +1,4 @@
 #ajout de ligne 
 ligne 1
-ligne 2
+Je modifie la ligne 2 HA HA HA
 ligne 3
